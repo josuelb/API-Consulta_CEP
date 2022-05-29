@@ -9,4 +9,4 @@ def index():
     return request.addres_data
 
 
-app.run(debug=True)
+app.run()

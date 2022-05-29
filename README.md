@@ -1,2 +1,2 @@
 # API-Consulta_CEP
- API + python que retorna informações do cep incerido. 
+ API Flask + python que retorna informações do cep incerido. 

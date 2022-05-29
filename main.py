@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return request.addres_data
+    return request.db
 
 
 app.run()
